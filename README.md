@@ -23,8 +23,8 @@ The four function is used to take each line from the main file.
 ```
 '''
 Program for copying the contents from one file to another file.
-Developed by: Siva Chandran R
-#RegisterNumber:22005531
+Developed by: hanumanth
+#RegisterNumber:22005234
 '''
 with open("git.txt","r") as f1:
     with open("MyFile.txt","a") as f2:
